@@ -24,3 +24,12 @@ Human.prototype.sayHello = function(){
 }
 
 let h1 = new Human("Himanshu", 20)
+console.log(h1);
+
+
+// sabse pahle property ko object me dhundhege nahi mila to prototype  mein dhundte hai
+ let a = {
+    name:"harsh"
+ }
+
+  
