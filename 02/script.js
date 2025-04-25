@@ -28,8 +28,6 @@ console.log(h1);
 
 
 // sabse pahle property ko object me dhundhege nahi mila to prototype  mein dhundte hai
- let a = {
-    name:"harsh"
- }
 
   
+
